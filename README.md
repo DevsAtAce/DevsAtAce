@@ -1,12 +1,11 @@
 Welcome to the habitat, the vibrant developer community under the umbrella of Ace! 🚀
 
-
-<===== **_What's Ace?_** =====>
+**_What's Ace?_**
 
 Ace is a versatile tech setup that thrives on all things tech, ranging from graphic, product, and brand design to UI/UX design, as well as web and software development. At Ace, we operate both as a Tech as a Service provider and through contractual engagements with companies. Our passion extends to building software for public and personal use, creating innovative solutions that make a lasting impact.
 
 
-<===== **_Ace.dev??_** =====>
+**_Ace.dev??_**
 
 Ace.dev is the dynamic developer branch of Ace, tasked with breathing life into projects and driving technological innovation. As the powerhouse behind Ace's tech endeavors, we are a group of skilled and passionate developers committed to pushing boundaries, embracing challenges, and delivering top-notch solutions.
 
@@ -18,8 +17,11 @@ DevAtAce is more than just a developer group; it's our habitat, where creativity
 **In this habitat, our mission is to:**
 
 👩‍💻 **Collaborate**: Foster a collaborative environment where developers can work together seamlessly to create exceptional solutions.
+
 👩‍💻 **Innovate:** Drive innovation by exploring cutting-edge technologies and methodologies to stay at the forefront of the tech industry.
+
 👩‍💻 **Learn:** Provide opportunities for continuous learning and skill development through workshops, discussions, and shared knowledge.
+
 👩‍💻 **Deliver:** Strive for excellence in project delivery, ensuring that every piece of software we create meets the highest standards.
 
 
